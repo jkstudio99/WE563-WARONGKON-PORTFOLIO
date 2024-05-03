@@ -652,6 +652,7 @@ nav {
     color: var(--primary-color-dark);
     background-color: var(--text-dark);
     border: 2px solid var(--primary-color-dark);
+
   }
 
   .header__container {
@@ -996,6 +997,7 @@ nav {
   .nav__btns {
     display: flex;
     flex: 1;
+    align-items: center;
   }
 
   .nav__btns .btn {
