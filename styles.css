@@ -1000,6 +1000,10 @@ nav {
     align-items: center;
   }
 
+  .nav__btns {
+    width: 100%;
+}
+
   .nav__btns .btn {
     color: var(--primary-color-dark);
     background-color: var(--text-dark);
