@@ -247,6 +247,8 @@ nav {
   font-weight: 600;
   color: var(--text-dark);
   background-color: var(--primary-color-dark);
+  border-radius: 15px;
+  width: 50%;
 }
 
 .header__btns a {
