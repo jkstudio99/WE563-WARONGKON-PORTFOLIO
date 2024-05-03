@@ -368,7 +368,7 @@ nav {
 }
 
 .commitment__image img {
-  max-width: 600px;
+  max-width: 450px;
   margin-inline: auto;
 }
 
@@ -431,7 +431,7 @@ nav {
 }
 
 .build__image img {
-  max-width: 900px;
+  max-width: 550px;
   margin-inline: auto;
 }
 
@@ -489,7 +489,7 @@ nav {
 }
 
 .client__image img {
-  max-width: 600px;
+  max-width: 350px;
   margin-inline: auto;
 }
 
@@ -498,7 +498,7 @@ nav {
 }
 
 .swiper {
-  margin-top: 1rem;
+  margin-top: 2rem;
   padding-bottom: 3rem;
   width: 100%;
 }
